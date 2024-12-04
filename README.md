@@ -17,7 +17,7 @@ The **Grocery Checklist** is a web-based application designed to help users mana
 1. **Clone the Repository**  
    Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/hemarakshana/grocery_checklist.git
+   git clone https://hemarakshana.github.io/grocery_checklist/
    ```
 
 2. **Set Up the Database**  
