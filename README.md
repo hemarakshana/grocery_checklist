@@ -45,5 +45,5 @@ The **Grocery Checklist** is a web-based application designed to help users mana
 - **HTML/CSS/JavaScript**: For the user interface.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the HR License. See the `LICENSE` file for more details.
 
